@@ -1,0 +1,14 @@
+name: itsnas
+main: io.github.nancom20.itsans.Main
+version: 1.0
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.7.20
+api-version: 1.19
+
+commands:
+  team:
+    description: sanss
+  aaa:
+    description: aaa
+  sans:
+    description:
